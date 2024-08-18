@@ -1,0 +1,14 @@
+C:\Users\thiag\source\repos\readerWriter\readerWriter\bin\Debug\net8.0\readerWriter.exe
+C:\Users\thiag\source\repos\readerWriter\readerWriter\bin\Debug\net8.0\readerWriter.deps.json
+C:\Users\thiag\source\repos\readerWriter\readerWriter\bin\Debug\net8.0\readerWriter.runtimeconfig.json
+C:\Users\thiag\source\repos\readerWriter\readerWriter\bin\Debug\net8.0\readerWriter.dll
+C:\Users\thiag\source\repos\readerWriter\readerWriter\bin\Debug\net8.0\readerWriter.pdb
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.AssemblyInfo.cs
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.dll
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\refint\readerWriter.dll
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.pdb
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\readerWriter.genruntimeconfig.cache
+C:\Users\thiag\source\repos\readerWriter\readerWriter\obj\Debug\net8.0\ref\readerWriter.dll
